@@ -29,6 +29,7 @@ Web前端通关指南, 宗旨在于每个(技术)领域(HTTP/HTML/CSS/JavaScript
 #### HTML
 * [What Beautiful HTML Code Looks Like](http://css-tricks.com/what-beautiful-html-code-looks-like/)
 * [HTML语言编写指南](http://www.ruanyifeng.com/blog/2009/05/guide_to_semantic_html_elements.html)
+* [Standards for sustainable HTML and CSS](https://github.com/mdo/code-guide)
 
 
 #### CSS
