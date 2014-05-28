@@ -23,6 +23,8 @@ Web前端通关指南, 宗旨在于每个(技术)领域(HTTP/HTML/CSS/JavaScript
 -- 虽然有很多人不再推荐了, 但我就是从这里起步的
 * [CSS 101: interactive tutorial](http://www.css-101.org)
 -- 让你重新认识CSS
+* [前端工程开发实践](http://f2eclass.com/) 
+-- TW友人分享的前端实践
 
 
 ### 前端编码规范(如何写出高端大气上档次的代码?)
