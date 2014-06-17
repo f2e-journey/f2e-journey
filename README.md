@@ -25,6 +25,8 @@ Web前端通关指南, 宗旨在于每个(技术)领域(HTTP/HTML/CSS/JavaScript
 -- 让你重新认识CSS
 * [前端工程开发实践](http://f2eclass.com/) 
 -- TW友人分享的前端实践
+* [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/ )
+-- JavaScript核心就这么多
 
 
 ### 前端编码规范(如何写出高端大气上档次的代码?)
