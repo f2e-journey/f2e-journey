@@ -41,6 +41,7 @@ Web前端通关指南, 宗旨在于每个(技术)领域(HTTP/HTML/CSS/JavaScript
 #### CSS
 * [编写如一、符合习惯的CSS的原则](https://github.com/necolas/idiomatic-css/tree/master/translations/zh-CN)
 * [通用 CSS 笔记、建议与指导](https://github.com/csswizardry/CSS-Guidelines)
+* [RSCSS](https://github.com/rstacruz/rscss)
 
 
 #### JavaScript
