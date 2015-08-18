@@ -1,11 +1,8 @@
 # f2e-journey
-
-最初只是做为一个豆列[<<我的前端之旅>>](http://book.douban.com/doulist/1423213/)(2012-01-10创建)来分享的, 但由于夹杂了一些互联网资源(例如博客文章等), 不太方便通过豆列的形式来编辑, 因此单独发布成一个 repo 便于协作.
-
-以后这个 Organization 还会陆续加入一些比较实用前端项目
+最初只是做为一个豆列[<<我的前端之旅>>](http://book.douban.com/doulist/1423213/)(2012-01-10创建)来分享的, 但由于夹杂了一些互联网资源(例如博客文章等), 不太方便通过豆列的形式来编辑, 因此单独发布出来便于协作更新.
 
 ## 我的前端之旅
-Web前端通关指南, 宗旨在于每个(技术)领域(HTTP/HTML/CSS/JavaScript)仅保留一本(篇)经典之作.
+Web 前端最佳入门指南, 宗旨在于每个(技术)领域(HTTP/HTML/CSS/JavaScript)仅保留一本(篇)经典之作.
 
 就目前来说, 想成为一名专业的前端, 缺乏专门/专业的地方来学习. 而前端的知识领域又涉及非常之广, 各方面的书籍倒是不匮乏, 各种入门文章也比比皆是. 但想从中找到优秀的进阶之路, 确实需要耐心.
 
@@ -27,7 +24,6 @@ Web前端通关指南, 宗旨在于每个(技术)领域(HTTP/HTML/CSS/JavaScript
 * [JavaScript The Right Way](http://jstherightway.org/)
 -- 让你对 JavaScript 有更全面的了解
 
-
 ### 前端编码规范
 如何写出高端大气上档次的代码?
 
@@ -45,3 +41,9 @@ Web前端通关指南, 宗旨在于每个(技术)领域(HTTP/HTML/CSS/JavaScript
 
 #### JavaScript
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
+
+### 一入前端深似海
+入门之后, 前端的路还很长
+
+* [前端好难 -- 致即将开发移动 Web App 的新人们](http://www.douban.com/note/290965435/)
+* [互联网时代前端"手工艺人"的百宝箱](https://github.com/f2e-journey/treasure)
