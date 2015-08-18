@@ -24,29 +24,35 @@
 * [《HTML & CSS: Design and Build Websites》](http://book.douban.com/subject/6585090/)
 
     如果你想学习前端, 从写页面开始, 我绝对首推这本书, 浅显易懂的排版方式, 让人赏心悦目, 看过后忍不住要买上那么一本显摆下. 如果一定要挑个毛病的话, 我觉得书名确实有点太朴实了, 封面让人记忆深刻...
-* [JavaScript DOM编程艺术(DOM Scripting)](http://book.douban.com/subject/1921890/)
+* [《JavaScript DOM编程艺术(DOM Scripting)》](http://book.douban.com/subject/1921890/)
 
     HTML/CSS 都接触过一些后, 是时候给我们的页面加点 JS 了, 但我们千万注意不要滥用, 小心把自己给坑了
 * [《JavaScript语言精粹(JavaScript:The Good Parts)》](http://book.douban.com/subject/11874748/)
 
     由于 JS 这门语言相当灵活, 写起来没什么约束, 稍不注意就有可能把自己坑了, 因此我们应该学会取其精华去其糟粕
-* [编写高质量代码](http://book.douban.com/subject/4881987/)
+* [《编写高质量代码》](http://book.douban.com/subject/4881987/)
 
     代码写多了, 也是时候回过头看看, 我们到底写了些什么, 写得好不好. 单打独斗的时间长了, 也是时候想想团队合作了
 
 ### 推荐教程
 * [A Practical Guide to HTML & CSS](http://learn.shayhowe.com/)
-  认为是最好的入门系列, 分初级和高级
+
+    认为是最好的入门系列, 分初级和高级
 * [w3school 在线教程中所有的HTML/CSS/JS教程](http://www.w3school.com.cn/)
--- 虽然有很多人不再推荐了, 但我就是从这里起步的
+
+    虽然有很多人不再推荐了, 但我就是从这里起步的
 * [CSS 101: interactive tutorial](http://www.css-101.org)
--- 让你重新认识CSS
+
+    让你重新认识CSS
 * [前端工程开发实践](http://f2eclass.com/) 
--- TW友人分享的前端实践
+
+    TW友人分享的前端实践
 * [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/ )
--- JavaScript核心就这么多
+
+    JavaScript核心就这么多
 * [JavaScript The Right Way](http://jstherightway.org/)
--- 让你对 JavaScript 有更全面的了解
+
+    让你对 JavaScript 有更全面的了解
 
 ### 前端编码规范
 如何写出高端大气上档次的代码?
