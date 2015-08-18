@@ -7,12 +7,9 @@
 ## 我的前端之旅
 Web前端通关指南, 宗旨在于每个(技术)领域(HTTP/HTML/CSS/JavaScript)仅保留一本(篇)经典之作.
 
-
 就目前来说, 想成为一名专业的前端, 缺乏专门/专业的地方来学习. 而前端的知识领域又涉及非常之广, 各方面的书籍倒是不匮乏, 各种入门文章也比比皆是. 但想从中找到优秀的进阶之路, 确实需要耐心.
 
-
 因我本身也不是一开始就立志做前端的, 但由于自己非常喜欢前端, 也一直没有离开过这个领域. 一点点的积累, 一步步踏过来, 看过的文章"千千万"(略带夸张成份), 但我这里推荐的, 绝对是我认为最好的, 也是我自己正在经历的一场精彩的旅程.
-
 
 祝: 旅途愉快!
 　　 
@@ -31,7 +28,9 @@ Web前端通关指南, 宗旨在于每个(技术)领域(HTTP/HTML/CSS/JavaScript
 -- 让你对 JavaScript 有更全面的了解
 
 
-### 前端编码规范(如何写出高端大气上档次的代码?)
+### 前端编码规范
+如何写出高端大气上档次的代码?
+
 #### HTML
 * [What Beautiful HTML Code Looks Like](http://css-tricks.com/what-beautiful-html-code-looks-like/)
 * [HTML语言编写指南](http://www.ruanyifeng.com/blog/2009/05/guide_to_semantic_html_elements.html)
