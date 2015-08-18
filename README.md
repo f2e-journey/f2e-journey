@@ -55,25 +55,25 @@
     让你对 JavaScript 有更全面的了解
 
 ### 前端编码规范
-如何写出高端大气上档次的代码?
+无规矩不成方圆, 我们如何才能写出高端大气上档次的代码呢?
 
 #### HTML
 * [What Beautiful HTML Code Looks Like](http://css-tricks.com/what-beautiful-html-code-looks-like/)
 * [HTML语言编写指南](http://www.ruanyifeng.com/blog/2009/05/guide_to_semantic_html_elements.html)
 * [Standards for sustainable HTML and CSS](https://github.com/mdo/code-guide)
 
-
 #### CSS
 * [编写如一、符合习惯的CSS的原则](https://github.com/necolas/idiomatic-css/tree/master/translations/zh-CN)
 * [通用 CSS 笔记、建议与指导](https://github.com/csswizardry/CSS-Guidelines)
 * [RSCSS](https://github.com/rstacruz/rscss)
 
-
 #### JavaScript
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
 ### 一入前端深似海
-入门之后, 前端的路还很长
+恭喜你, 在前端的道路上终于迈出了坚实的一步. 我想说的是入门以后, 前端的路才刚刚开始.
+
+路漫漫其修远兮, 吾将上下而求索.
 
 * [前端好难 -- 致即将开发移动 Web App 的新人们](http://www.douban.com/note/290965435/)
 * [互联网时代前端"手工艺人"的百宝箱](https://github.com/f2e-journey/treasure)
