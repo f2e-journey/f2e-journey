@@ -64,7 +64,7 @@
 
 #### CSS
 * [编写如一、符合习惯的CSS的原则](https://github.com/necolas/idiomatic-css/tree/master/translations/zh-CN)
-* [通用 CSS 笔记、建议与指导](https://github.com/csswizardry/CSS-Guidelines)
+* [CSS Guidelines](http://cssguidelin.es/)
 * [RSCSS](https://github.com/rstacruz/rscss)
 
 #### JavaScript
