@@ -61,6 +61,7 @@
 * [What Beautiful HTML Code Looks Like](http://css-tricks.com/what-beautiful-html-code-looks-like/)
 * [HTML语言编写指南](http://www.ruanyifeng.com/blog/2009/05/guide_to_semantic_html_elements.html)
 * [Standards for sustainable HTML and CSS](https://github.com/mdo/code-guide)
+* [一份全面的前端开发规范手册](https://github.com/Aaaaaashu/Front-End-Style-Guide)
 
 #### CSS
 * [编写如一、符合习惯的CSS的原则](https://github.com/necolas/idiomatic-css/tree/master/translations/zh-CN)
