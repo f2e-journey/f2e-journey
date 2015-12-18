@@ -82,3 +82,4 @@
 * [前端路上的旅行](http://www.w3cplus.com/front-end-trip-on-road.html)
 * [前端开发指南](https://github.com/w3crange/Front-End-Develop-Guide)
 * [前端程序员的自我修养](http://thzt.github.io/an-introduction-to-web-front-end/)
+* [StuQ 技能图 - Web 前端](https://github.com/TeamStuQ/skill-map)
