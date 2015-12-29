@@ -30,7 +30,7 @@
 * [《JavaScript语言精粹(JavaScript:The Good Parts)》](http://book.douban.com/subject/11874748/)
 
     由于 JS 这门语言相当灵活, 写起来没什么约束, 稍不注意就有可能把自己坑了, 因此我们应该学会取其精华去其糟粕
-* [《编写高质量代码》](http://book.douban.com/subject/4881987/)
+* [《编写高质量代码 - Web前端开发修炼之道》](http://book.douban.com/subject/4881987/)
 
     代码写多了, 也是时候回过头看看, 我们到底写了些什么, 写得好不好. 单打独斗的时间长了, 也是时候想想团队合作了
 
