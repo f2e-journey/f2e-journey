@@ -82,5 +82,7 @@
 * [前端路上的旅行](http://www.w3cplus.com/front-end-trip-on-road.html)
 * [前端开发指南](https://github.com/w3crange/Front-End-Develop-Guide)
 * [前端程序员的自我修养](http://thzt.github.io/an-introduction-to-web-front-end/)
+* [What makes a good front end engineer?](http://www.nczonline.net/blog/2007/08/15/what-makes-a-good-front-end-engineer/)
+* [如何成为一名卓越的前端工程师](http://jiongks.name/blog/how-to-become-a-great-front-end-engineer/)
 * [StuQ 技能图 - Web 前端](https://github.com/TeamStuQ/skill-map)
 * [给想转行做前端工程师的建议](https://www.zhihu.com/question/38924821/answer/79207681)
