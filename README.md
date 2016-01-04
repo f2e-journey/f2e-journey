@@ -83,3 +83,4 @@
 * [前端开发指南](https://github.com/w3crange/Front-End-Develop-Guide)
 * [前端程序员的自我修养](http://thzt.github.io/an-introduction-to-web-front-end/)
 * [StuQ 技能图 - Web 前端](https://github.com/TeamStuQ/skill-map)
+* [给想转行做前端工程师的建议](https://www.zhihu.com/question/38924821/answer/79207681)
