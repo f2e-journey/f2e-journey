@@ -44,10 +44,10 @@
 * [CSS 101: interactive tutorial](http://www.css-101.org)
 
     让你重新认识CSS
-* [前端工程开发实践](http://f2eclass.com/) 
+* ~~[前端工程开发实践](http://f2eclass.com/)~~ 不知道什么原因网站下线了, 待与作者联系
 
     TW友人分享的前端实践
-* [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/ )
+* [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
 
     JavaScript核心就这么多
 * [JavaScript The Right Way](http://jstherightway.org/)
