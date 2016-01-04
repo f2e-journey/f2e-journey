@@ -56,7 +56,7 @@
 
 * [前端开发笔记本](https://github.com/li-xinyang/FEND_Note)
 
-    涵盖了 Web 前端开发所需的全部基本知识以及所对应的学习路径
+    涵盖了 Web 前端开发所需的全部基本知识以及所对应的学习路径 - [前端开发工程师(网易云课堂微专业)](http://mooc.study.163.com/smartSpec/detail/12001.htm)
     - 最基础的页面制作(PS 切图)
     - HTML/CSS/JS/DOM
     - 页面架构(常用的布局解决方案)
