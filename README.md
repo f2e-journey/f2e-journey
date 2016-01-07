@@ -96,3 +96,4 @@
 * [如何成为一名卓越的前端工程师](http://jiongks.name/blog/how-to-become-a-great-front-end-engineer/)
 * [StuQ 技能图 - Web 前端](https://github.com/TeamStuQ/skill-map)
 * [给想转行做前端工程师的建议](https://www.zhihu.com/question/38924821/answer/79207681)
+  ![分三个层面认识前端开发涉及的东西](https://pic2.zhimg.com/713774d5383d726b1cb8e6b6ef48fd0d_r.png)
