@@ -40,7 +40,7 @@
     认为是最好的入门系列, 分初级和高级
 * [w3school 在线教程中所有的HTML/CSS/JS教程](http://www.w3school.com.cn/)
 
-    虽然有很多人不再推荐了, 但我就是从这里起步的
+    虽然有很多人不再推荐了, 但我就是从这里起步的, 可以多结合[MDN](https://developer.mozilla.org/zh-CN/docs/Web)来看看
 * [CSS 101: interactive tutorial](http://www.css-101.org)
 
     让你重新认识CSS
