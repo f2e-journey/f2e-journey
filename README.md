@@ -79,6 +79,23 @@
 * [CSS Guidelines](http://cssguidelin.es/)
 * [RSCSS](https://github.com/rstacruz/rscss)
 
+  > * Components, named with 2 words (`.blog-post`)
+  > * Elements, named with 1 word (`.blog-post > .title`)
+  > * Variants, named with a dash prefix (`.blog-post.-with-icon`)
+  > * Helpers, named with an underscore prefix (`_pull-left`)
+  > ```html
+  > <!-- BEM -->
+  > <form class="site-search site-search--full">
+  >     <input  class="site-search_field" type="text">
+  >     <button class="site-search_button"></button>
+  > </form>
+  > <!-- rscss -->
+  > <form class="site-search -full">
+  >     <input  class="field" type="text">
+  >     <button class="button"></button>
+  > </form>
+  > ```
+
 #### JavaScript
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
