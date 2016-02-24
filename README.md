@@ -92,8 +92,8 @@
   > ```html
   > <!-- BEM -->
   > <form class="site-search site-search--full">
-  >     <input  class="site-search_field" type="text">
-  >     <button class="site-search_button"></button>
+  >     <input  class="site-search__field" type="text">
+  >     <button class="site-search__button"></button>
   > </form>
   > <!-- rscss -->
   > <form class="site-search -full">
