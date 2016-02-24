@@ -105,6 +105,17 @@
 #### JavaScript
 * [Airbnb JavaScript Style Guide](https://github.com/airbnb/javascript)
 
+#### Versioning
+如果你编写了某个软件或者某个组件, 你知道如何制定版本号吗?
+* [语义化版本](http://semver.org/lang/zh-CN/)
+
+  > Consider a version format of X.Y.Z (Major.Minor.Patch).
+  > 
+  > 版本格式：主版本号.次版本号.修订号，版本号递增规则如下：
+  > * 主版本号：当你做了不兼容的 API 修改，
+  > * 次版本号：当你做了向下兼容的功能性新增，
+  > * 修订号：当你做了向下兼容的问题修正。
+
 ### 一入前端深似海
 恭喜你, 在前端的道路上终于迈出了坚实的一步. 我想说的是入门以后, 前端的路才刚刚开始.
 
