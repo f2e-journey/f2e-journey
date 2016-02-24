@@ -49,7 +49,13 @@
     TW友人分享的前端实践
 * [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
 
-    JavaScript核心就这么多
+    全面介绍了 JavaScript 核心语法(ECMAScript 5.1版本), 从最简单的开始讲起, 循序渐进、由浅入深, 力求清晰易懂。
+所有章节都带有大量的代码实例, 便于理解和模仿, 可以用到实际项目中, 即学即用
+
+* [JavaScript 核心](http://weizhifeng.net/javascript-the-core.html)
+
+    「深入ECMA-262-3」系列, 以便你对 JavaScript 核心部分(对象/原型链/构造函数/执行上下文/作用域链/闭包/This)有更深的理解
+
 * [JavaScript The Right Way](http://jstherightway.org/)
 
     让你对 JavaScript 有更全面的了解
