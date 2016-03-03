@@ -121,6 +121,7 @@
 
 路漫漫其修远兮, 吾将上下而求索.
 
+* [前端工程师的职业发展规划](https://github.com/f2e-journey/f2e-journey/blob/master/career-planning.md)
 * [前端好难 -- 致即将开发移动 Web App 的新人们](http://www.douban.com/note/290965435/)
 * [互联网时代前端"手工艺人"的百宝箱](https://github.com/f2e-journey/treasure)
 * [前端路上的旅行](http://www.w3cplus.com/front-end-trip-on-road.html)
