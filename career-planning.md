@@ -21,12 +21,13 @@
 * 提升前端工作效率
 * 提升用户体验, 通过技术驱动业务, 提升产品价值
 * 关注前端前沿技术和发展方向, 通过新技术服务团队和业务(前端基础设施, 如工程模版, 规范, 可重用组件, 架构等等)
-  * [各大互联网公司前端团队的博客](https://github.com/f2e-journey/treasure#前端博客社区)
-  * [前端大神们的微博/知乎](http://weibo.com/g/3850331177585126/1449625604)
-  * [前端技术峰会](https://github.com/f2e-journey/treasure#技术峰会)
-  * [前端社区](https://github.com/f2e-journey/treasure#前端博客社区)
-  * [前端技术资讯周刊](https://github.com/f2e-journey/treasure#前端博客社区)
+  - [各大互联网公司前端团队的博客](https://github.com/f2e-journey/treasure#前端博客社区)
+  - [前端大神们的微博/知乎](http://weibo.com/g/3850331177585126/1449625604)
+  - [前端技术峰会](https://github.com/f2e-journey/treasure#技术峰会)
+  - [前端社区](https://github.com/f2e-journey/treasure#前端博客社区)
+  - [前端技术资讯周刊](https://github.com/f2e-journey/treasure#前端博客社区)
 * 分享前端知识/开源项目
+  - [学前班](https://github.com/f2e-journey/xueqianban) 
 
 
 ## 参考
@@ -85,6 +86,10 @@
   > 七、找到水平更高的人
 
 * [正确地做事与做正确的事同样重要](http://blog.csdn.net/cxxsoft/article/details/1019656)
+
+  > * 提高软件知识和技术只是问题的表面，本质是要提高自己认识问题、分析问题、解决问题的思想高度
+  > * 在能胜任工作的基础上，立即去涉猎其它领域的专业知识，丰富自己的知识体系、提高自己的综合素质
+
 * [程序员必读的职业规划书](https://book.douban.com/subject/26383703/)
 
   > * 原理篇
