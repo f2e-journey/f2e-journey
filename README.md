@@ -120,6 +120,12 @@
   > * 次版本号：当你做了向下兼容的功能性新增，
   > * 修订号：当你做了向下兼容的问题修正。
 
+#### 文案风格
+统一的文案、排版, 能有效降低团队成员之间的沟通成本, 增强网站的气质
+* [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
+* [Teambition 文案风格手册](https://github.com/teambition/standard/blob/master/copywriting-style-guide.md)
+* [LeanCloud 文案风格指南](https://open.leancloud.cn/copywriting-style-guide.html)
+
 ### 一入前端深似海
 恭喜你, 在前端的道路上终于迈出了坚实的一步. 我想说的是入门以后, 前端的路才刚刚开始.
 
