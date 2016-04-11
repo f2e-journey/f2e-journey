@@ -8,7 +8,7 @@
 
 ---
 
-前端工程师只是程序员的一个专业方向, 因此我们首先应该是一个优秀的程序员.
+前端工程师只是程序员的一个专业方向, 因此我们首先应该是一个[优秀的程序员](https://github.com/ahangchen/How-to-Be-A-Programmer-CN "程序员成长之路").
 * 优秀的程序员/工程师/手艺人(练就扎实的硬技能)
 * [目标是架构师](http://www.infoq.com/cn/articles/brown-are-you-a-software-architect "你是个软件架构师吗?")(全局的眼光/开阔的视野)
 * 沟通能力/团队协作(各种软技能/辅助技能)
