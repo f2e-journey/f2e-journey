@@ -125,6 +125,7 @@
 * [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 * [Teambition 文案风格手册](https://github.com/teambition/standard/blob/master/copywriting-style-guide.md)
 * [LeanCloud 文案风格指南](https://open.leancloud.cn/copywriting-style-guide.html)
+* [如何写一份高大上的 README](https://github.com/nieweidong/ReadmeSample)
 
 ### 一入前端深似海
 恭喜你, 在前端的道路上终于迈出了坚实的一步. 我想说的是入门以后, 前端的路才刚刚开始.
