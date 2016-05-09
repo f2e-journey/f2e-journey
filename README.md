@@ -34,6 +34,10 @@
 
     代码写多了, 也是时候回过头看看, 我们到底写了些什么, 写得好不好. 单打独斗的时间长了, 也是时候想想团队合作了
 
+* [《图解HTTP》](https://book.douban.com/subject/25863515/)
+
+    浅显易懂, 了解我们每天使用的 Web 背后都发生了什么, 值得深入并反复阅读理解
+
 ### 推荐教程
 * [A Practical Guide to HTML & CSS](http://learn.shayhowe.com/)
 
