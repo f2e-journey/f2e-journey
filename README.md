@@ -87,6 +87,7 @@
 * [Standards for sustainable HTML and CSS](https://github.com/mdo/code-guide)
 * [一份全面的前端开发规范手册](https://github.com/Aaaaaashu/Front-End-Style-Guide)
 * [百度前端代码规范](https://github.com/ecomfe/spec) 除开 HTML/CSS/JS 编码规范外, 还有 [E-JSON 数据传输标准](https://github.com/ecomfe/spec/blob/master/e-json.md), [项目目录结构规范](https://github.com/ecomfe/spec/blob/master/directory.md)
+* [「饿了么」风格指南](https://github.com/ElemeFE/style-guide) 包括 HTML/CSS/JS 代码风格和 Web 产品兼容范围
 
 #### CSS
 * [编写如一、符合习惯的CSS的原则](https://github.com/necolas/idiomatic-css/tree/master/translations/zh-CN)
