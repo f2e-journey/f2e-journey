@@ -125,6 +125,9 @@
   > * 次版本号：当你做了向下兼容的功能性新增，
   > * 修订号：当你做了向下兼容的问题修正。
 
+提交代码时, 也应该遵循一定的规范来编写提交说明, 这样就能够提供更多的历史信息, 方便快速浏览
+* [Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
+
 #### 文案风格
 统一的文案、排版, 能有效降低团队成员之间的沟通成本, 增强网站的气质
 * [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
