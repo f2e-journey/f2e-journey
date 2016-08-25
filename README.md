@@ -121,9 +121,9 @@
   > Consider a version format of X.Y.Z (Major.Minor.Patch).
   > 
   > 版本格式：主版本号.次版本号.修订号，版本号递增规则如下：
-  > * 主版本号：当你做了不兼容的 API 修改，
-  > * 次版本号：当你做了向下兼容的功能性新增，
-  > * 修订号：当你做了向下兼容的问题修正。
+  > * 主版本号：当你做了**不兼容**的 API 修改
+  > * 次版本号：当你做了向下兼容的**功能性新增**
+  > * &nbsp;&nbsp;&nbsp;&nbsp;修订号：当你做了向下兼容的**问题修正**
 
 提交代码时, 也应该遵循一定的规范来编写提交说明, 这样就能够提供更多的历史信息, 方便快速浏览
 * [Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
