@@ -48,9 +48,9 @@
 * [CSS 101: interactive tutorial](http://www.css-101.org)
 
     让你重新认识CSS
-* ~~[前端工程开发实践](http://f2eclass.com/)~~ 不知道什么原因网站下线了, 待与作者联系
+* [前端工程开发实践](https://github.com/josephj/f2e-class "不知道什么原因 f2eclass.com 网站下线了, 与作者联系不上")
 
-    TW友人分享的前端实践
+    宝岛友人分享的前端实践
 * [JavaScript 标准参考教程](http://javascript.ruanyifeng.com/)
 
     全面介绍了 JavaScript 核心语法(ECMAScript 5.1版本), 从最简单的开始讲起, 循序渐进、由浅入深, 力求清晰易懂。
