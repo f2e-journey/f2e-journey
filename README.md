@@ -146,6 +146,8 @@
 * [如何写出一个好的 Web 页面](https://github.com/f2e-journey/xueqianban/issues/11)
 * [前端路上的旅行](http://www.w3cplus.com/front-end-trip-on-road.html)
 * [前端开发指南](https://github.com/w3crange/Front-End-Develop-Guide)
+* [结合个人经历总结的前端入门方法](https://github.com/qiu-deqing/FE-learning)
+* [Web 前端学习笔记](https://github.com/iamjoel/front-end-note)
 * [前端程序员的自我修养](http://thzt.github.io/an-introduction-to-web-front-end/)
 * [What makes a good front end engineer?](http://www.nczonline.net/blog/2007/08/15/what-makes-a-good-front-end-engineer/)
 * [如何成为一名卓越的前端工程师](http://jiongks.name/blog/how-to-become-a-great-front-end-engineer/)
