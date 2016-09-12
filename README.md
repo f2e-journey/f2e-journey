@@ -132,7 +132,7 @@
   >
   > 先行版本号(pre-release)及版本编译信息(build metadata)可以加到"主版本号.次版本号.修订号"的后面作为延伸
   > * pre-release: 表示当前版本是一个不稳定的版本, 使用它时需要注意风险
-  > * 建议使用这种 <major>.<minor>.<patch>-<stage>.<num> 的形式, 其中 <stage> 一般选用: alpha、beta、rc, 对于标记部分的比较, 是根据 ASCII 字母表中的顺序来进行的
+  > * 建议使用这种 `<major>.<minor>.<patch>-<stage>.<num>` 的形式, 其中 `<stage>` 一般选用: alpha、beta、rc, 对于标记部分的比较, 是根据 ASCII 字母表中的顺序来进行的
   > 
   > 一个典型的版本号发展示例
   > * 0.1.0
