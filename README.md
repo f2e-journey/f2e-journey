@@ -159,6 +159,8 @@
 
 #### 文案风格
 统一的文案、排版, 能有效降低团队成员之间的沟通成本, 增强网站的气质
+
+* [中文技术文档的写作规范](https://github.com/ruanyf/document-style-guide)
 * [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines)
 * [Teambition 文案风格手册](https://github.com/teambition/standard/blob/master/copywriting-style-guide.md)
 * [LeanCloud 文案风格指南](https://open.leancloud.cn/copywriting-style-guide.html)
