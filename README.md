@@ -75,7 +75,7 @@
 
 * [全栈工程师培训材料](https://github.com/ruanyf/jstraining)
 
-  阮一峰老师整理的一份技术清单, 涵盖前端开发的历史和趋势, React 技术栈, Node 应用开发, 前端工程简介. 特别推荐《前端开发的历史和趋势》
+  阮一峰老师整理的一份技术清单, 涵盖前端开发的历史和趋势, React 技术栈, Node 应用开发, 前端工程简介. 特别推荐《前端开发的历史和趋势》
 
   * 什么是前端(前端：针对浏览器的开发，代码在浏览器运行/后端：针对服务器的开发，代码在服务器运行)
   * 前端开发的历史演变(前后端不分 -> 前后端分离 -> 全栈工程师)
@@ -85,7 +85,7 @@
 
 * [Bootstrap](https://github.com/twbs/bootstrap)
 
-    可以说是一个里程碑似的前端框架, 从此我们的页面不再简陋而风格混乱. 从中可以"偷学"的东西实在是太多了(栅格/响应式/组件等等等等). 如果你每天都在使用它, 那么请更深入地去了解它, 学习下它是如何规划 [CSS(命名)](https://github.com/twbs/bootstrap/blob/master/less/modals.less), 又是如何写出一个 [jQuery 插件](https://github.com/twbs/bootstrap/blob/master/js/modal.js). 它会告诉你, 在现实项目中应该怎样写 HTML/CSS/JS, 这些都是你值得借鉴的, 更何况它经历了那么多版本的更新, 那么多项目的考验. 当你真正去研究一个框架时, 你的收获肯定比你仅仅是使用要来的多得多.
+  可以说是一个里程碑似的前端框架, 从此我们的页面不再简陋而风格混乱. 从中可以"偷学"的东西实在是太多了(栅格/响应式/组件等等等等). 如果你每天都在使用它, 那么请更深入地去了解它, 学习下它是如何规划 [CSS(命名)](https://github.com/twbs/bootstrap/blob/master/less/modals.less), 又是如何写出一个 [jQuery 插件](https://github.com/twbs/bootstrap/blob/master/js/modal.js). 它会告诉你, 在现实项目中应该怎样写 HTML/CSS/JS, 这些都是你值得借鉴的, 更何况它经历了那么多版本的更新, 那么多项目的考验. 当你真正去研究一个框架时, 你的收获肯定比你仅仅是使用要来的多得多.
 
 ### 编码规范
 无规矩不成方圆, 我们如何才能写出高端大气上档次的代码呢? 要知道代码主要是给人阅读的, 只是偶尔让计算机执行一下.
@@ -100,6 +100,7 @@
 
 #### CSS
 * [编写如一、符合习惯的CSS的原则](https://github.com/necolas/idiomatic-css/tree/master/translations/zh-CN)
+* [NEC : 更好的CSS样式解决方案](http://nec.netease.com/)
 * [CSS Guidelines](http://cssguidelin.es/)
 * [RSCSS](https://github.com/rstacruz/rscss)
 
