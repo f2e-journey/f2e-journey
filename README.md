@@ -167,6 +167,27 @@
 提交代码时, 也应该遵循一定的规范来编写提交说明, 这样就能够提供更多的历史信息, 方便快速浏览
 * [Commit message 和 Change log 编写指南](http://www.ruanyifeng.com/blog/2016/01/commit_message_change_log.html)
 
+  > ```
+  > <type>(<scope>): <subject>
+  > <BLANK LINE>
+  > <body>
+  > <BLANK LINE>
+  > <footer>
+  > ```
+  > 
+  > Type
+  > 
+  > * **feat**: A new feature
+  > * **fix**: A bug fix
+  > * **docs**: Documentation only changes
+  > * **style**: Changes that do not affect the meaning of the code (white-space, formatting, missing semi-colons, etc)
+  > * **refactor**: A code change that neither fixes a bug nor adds a feature
+  > * **perf**: A code change that improves performance
+  > * **test**: Adding missing or correcting existing tests
+  > * **chore**: Changes to the build process or auxiliary tools and libraries such as documentation generation
+  > 
+  > [Git Commit Guidelines | Developing AngularJS](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines)
+
 #### 文案风格
 统一的文案、排版, 能有效降低团队成员之间的沟通成本, 增强网站的气质
 
