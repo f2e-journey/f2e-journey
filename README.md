@@ -186,7 +186,7 @@
   > * **test**: Adding missing or correcting existing tests
   > * **chore**: Changes to the build process or auxiliary tools and libraries such as documentation generation
   > 
-  > [Git Commit Guidelines | Developing AngularJS](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines)
+  > [Git Commit Guidelines | Developing AngularJS](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines) | [Keep a Changelog](https://github.com/olivierlacan/keep-a-changelog)
 
 #### 文案风格
 统一的文案、排版, 能有效降低团队成员之间的沟通成本, 增强网站的气质
